@@ -20,6 +20,11 @@ Requirements:
 The app uses Node, so you must have a recent version of Node
 
 Installation:
+
+clone repo 
+
 run npm install
+
 run node node_app.js
+
 Navigate to http://localhost:3000
